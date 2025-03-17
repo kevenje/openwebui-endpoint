@@ -1,5 +1,5 @@
 <?PHP
-//This code uses CURL to query the https://openwebui.com/ to generate a boolean search string from a user provided research query.
+//This code uses CURL to query an https://openwebui.com/ instance to generate a boolean search string from a user provided research query.
 //3/17/2025
 
 $searchQuery = "What is the effect of social media on mental health?";
